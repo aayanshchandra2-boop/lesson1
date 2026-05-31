@@ -1,0 +1,14 @@
+# Program to store 5 different birth dates in separate variables
+# Store birth dates 
+birth_date1 = "1995-06-15"
+birth_date2 = "2000-12-25"
+birth_date3 = "1998-04-10"
+birth_date4 = "1992-11-05"
+birth_date5 = "2005-01-20"
+# Display the stored birth dates
+print("Stored Birth Dates:")
+print("Person 1:", birth_date1)
+print("Person 2:", birth_date2)
+print("Person 3:", birth_date3)
+print("Person 4:", birth_date4)
+print("Person 5:", birth_date5)
