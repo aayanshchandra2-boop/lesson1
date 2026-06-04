@@ -1,0 +1,6 @@
+summer=float(input("enter tempreature"))
+winter=float(input("enter tempreature"))
+if summer>winter:
+ print("wear soft and light cloths")
+else:
+ print("wear jacket")
