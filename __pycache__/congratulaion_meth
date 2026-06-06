@@ -1,0 +1,4 @@
+word=(input("enter congratulations:"))
+upper_word=word[0:1].upper()
+lower_word=word[1:16].lower()
+print(upper_word+lower_word)
