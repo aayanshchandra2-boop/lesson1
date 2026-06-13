@@ -1,4 +1,4 @@
-amount=int(input("enter any amount:"))
+
 total_amount=amount//100
 r_amount=amount%100 
 total_amount=r_amount//50
