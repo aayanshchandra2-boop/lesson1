@@ -1,6 +1,6 @@
-user_input = input("Enter a single character:")
+user_input = input("Enter a single alphabet character (A-Z):")
 # Check if it is an alphabet
-if 
-        print("The given character is an Alphabet.")
+if user_input:
+        print("The given character is an alphabet.")
 else:
-        print("The given character is not an Alphabet.")
+        print("The given character is not an alphabet.")
